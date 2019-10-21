@@ -1,0 +1,45 @@
+﻿2019-10-21T11:07:12.2287064+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T11:07:12.2287064+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T11:07:12.2287064+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T11:07:12.2606649+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T11:07:12.2606649+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\TestResults" (default)
+2019-10-21T11:07:12.2617071+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T11:07:12.2862066+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\TestResults\Unnamed project__2019-10-21T110712.log
+2019-10-21T11:07:12.3016689+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T11:07:12.3086705+01:00;Thread#13;Info;Checking license
+2019-10-21T11:07:12.3276995+01:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-10-21T11:07:26.3301113+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T11:07:26.3500642+01:00;Thread#13;Info;License check completed
+2019-10-21T11:07:26.3500642+01:00;Thread#13;Info;starting test run
+2019-10-21T11:07:26.3819955+01:00;Thread#13;Info;Discovering target: Default
+2019-10-21T11:07:26.3829654+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T11:07:26.8587380+01:00:Appdomain Disposed
+2019-10-21T11:07:26.8587380+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T11:07:26.8596955+01:00:Test Suite Dump
+2019-10-21T11:07:26.8616660+01:00:#0: Unnamed project/ - 
+2019-10-21T11:07:26.8616660+01:00:End: Test Suite Dump
+2019-10-21T11:07:26.8816621+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T11:07:26.8836624+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T11:07:26.8836624+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T11:07:26.8836624+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T11:07:26.8860979+01:00:Trying to cancel thread
+2019-10-21T11:07:26.8860979+01:00:Thread cancelled
+2019-10-21T11:07:26.8926801+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T11:07:26.8926801+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T11:07:26.8926801+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T11:07:26.8938450+01:00;Thread#13;Info;test run finished
+2019-10-21T11:07:26.8938450+01:00;Thread#13;Info;publishing test results
+2019-10-21T11:07:26.9306632+01:00;Thread#13;Info;test results published
+2019-10-21T11:07:26.9306632+01:00;Thread#13;Info;generating reports
+2019-10-21T11:07:27.0231988+01:00;Thread#13;Info;Starting external report generation process
+2019-10-21T11:07:28.2367442+01:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-10-21T11:07:28.2377455+01:00;Thread#13;Error;External program returned exit code '-2'
+2019-10-21T11:07:28.2378547+01:00;Thread#13;Info;Failed generating reports
+2019-10-21T11:07:28.2447495+01:00:Total: 0
+2019-10-21T11:07:28.2467486+01:00:Succeeded: 0
+2019-10-21T11:07:28.2470202+01:00:Ignored: 0
+2019-10-21T11:07:28.2477477+01:00:Pending: 0
+2019-10-21T11:07:28.2477477+01:00:Skipped: 0
+2019-10-21T11:07:28.2477477+01:00:Failed: 0
+2019-10-21T11:07:28.2558845+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

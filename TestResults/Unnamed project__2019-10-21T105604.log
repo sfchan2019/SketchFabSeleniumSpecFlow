@@ -1,0 +1,89 @@
+﻿2019-10-21T10:56:04.1065281+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T10:56:04.1065281+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T10:56:04.1065281+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T10:56:04.2414961+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T10:56:04.2414961+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\TestResults" (default)
+2019-10-21T10:56:04.2414961+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T10:56:04.3055022+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\TestResults\Unnamed project__2019-10-21T105604.log
+2019-10-21T10:56:04.3404988+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T10:56:04.3774990+01:00;Thread#14;Info;Checking license
+2019-10-21T10:56:04.4535248+01:00;Thread#14;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-21T10:56:15.4554973+01:00;Thread#14;Info;Evaluation delay finished.
+2019-10-21T10:56:15.4745057+01:00;Thread#14;Info;License check completed
+2019-10-21T10:56:15.4754804+01:00;Thread#14;Info;starting test run
+2019-10-21T10:56:15.5114850+01:00;Thread#14;Info;Discovering target: Default
+2019-10-21T10:56:15.5114850+01:00;Thread#14;Info;Discovering tests from assembly: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T10:56:16.7675089+01:00:Appdomain Disposed
+2019-10-21T10:56:16.7675089+01:00;Thread#14;Info;Discovered tests from assembly: C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SketchFabSeleniumSpecFlow.dll
+2019-10-21T10:56:16.7704779+01:00:Test Suite Dump
+2019-10-21T10:56:16.7734843+01:00:#0: Unnamed project/ - 
+2019-10-21T10:56:16.7734843+01:00:#1: Default - 
+2019-10-21T10:56:16.7734843+01:00:#2: SketchFabSeleniumSpecFlow - 
+2019-10-21T10:56:16.7734843+01:00:#3: SketchFabSignUp - 
+2019-10-21T10:56:16.9054768+01:00:#4: Sign up without confirming terms and conditions - TestAssembly:SketchFabSeleniumSpecFlow/Feature:SketchFabSignUp/Scenario:Sign+up+without+confirming+terms+and+conditions
+2019-10-21T10:56:16.9074918+01:00:End: Test Suite Dump
+2019-10-21T10:56:16.9754815+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T10:56:16.9844749+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-21T10:56:16.9844749+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T10:56:16.9924753+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T10:56:16.9924753+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T10:56:16.9924753+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T10:56:16.9924753+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T10:56:16.9964761+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T10:56:17.0014828+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T10:56:17.0084780+01:00:Thread #0: creating new test thread executor for SketchFabSeleniumSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T10:56:17.0204865+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T10:56:17.0214737+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T10:56:17.0244770+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T10:56:17.2684778+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-21T10:56:17.7544818+01:00:Thread#0:T:-> Loading plugin C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\SketchFabSeleniumSpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T10:56:17.7734766+01:00:Thread#0:T:-> Using default config
+2019-10-21T10:56:25.4230468+01:00:Thread#0:B:Given I am on the home page
+2019-10-21T10:56:52.6202708+01:00:Thread#0:T:done: SketchFabSignUpSteps.GivenIAmOnTheHomePage() (27.1s)
+2019-10-21T10:56:52.6222753+01:00:Thread#0:B:And I click on the sign up button
+2019-10-21T10:56:58.0244490+01:00:Thread#0:T:done: SketchFabSignUpSteps.GivenIClickOnTheSignUpButton() (5.4s)
+2019-10-21T10:56:58.0254593+01:00:Thread#0:B:And the sign up window pop up
+2019-10-21T10:56:58.3914552+01:00:Thread#0:T:done: SketchFabSignUpSteps.GivenTheSignUpWindowPopUp() (0.4s)
+2019-10-21T10:56:58.3924601+01:00:Thread#0:B:When I enter a valid username
+2019-10-21T10:56:58.9964511+01:00:Thread#0:T:done: SketchFabSignUpSteps.WhenIEnterAValidUsername() (0.6s)
+2019-10-21T10:56:58.9964511+01:00:Thread#0:B:And I enter a valid email
+2019-10-21T10:57:00.1154479+01:00:Thread#0:T:done: SketchFabSignUpSteps.WhenIEnterAValidEmail() (1.1s)
+2019-10-21T10:57:00.1154479+01:00:Thread#0:B:And I enter a valid password
+2019-10-21T10:57:00.3754473+01:00:Thread#0:T:done: SketchFabSignUpSteps.WhenIEnterAValidPassword() (0.3s)
+2019-10-21T10:57:00.3754473+01:00:Thread#0:B:And I do not tick the privacy policy check box
+2019-10-21T10:57:00.5104474+01:00:Thread#0:T:pending: SketchFabSignUpSteps.WhenIDoNotTickThePrivacyPolicyCheckBox()
+2019-10-21T10:57:00.5104474+01:00:Thread#0:B:And I click the create account button
+2019-10-21T10:57:00.5104474+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T10:57:00.5114462+01:00:Thread#0:B:Then the registration should be failed
+2019-10-21T10:57:00.5114462+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T10:57:00.5114462+01:00:Thread#0:B:And The error message should return This field is required
+2019-10-21T10:57:00.5114462+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T10:57:00.5214450+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-10-21T10:57:00.5214450+01:00:Thread#0:T:  SketchFabSignUpSteps.WhenIDoNotTickThePrivacyPolicyCheckBox()
+2019-10-21T10:57:00.5364464+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T10:57:00.5364464+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T10:57:00.5364464+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T10:57:00.5364464+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T10:57:04.2041647+01:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 46.9346916 seconds
+2019-10-21T10:57:04.2702028+01:00:Appdomain Disposed
+2019-10-21T10:57:04.2771742+01:00:Trying to cancel thread
+2019-10-21T10:57:04.2771742+01:00:Thread cancelled
+2019-10-21T10:57:04.3021706+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T10:57:04.3021706+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T10:57:04.3021706+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T10:57:04.3081694+01:00;Thread#14;Info;test run finished
+2019-10-21T10:57:04.3091706+01:00;Thread#14;Info;publishing test results
+2019-10-21T10:57:04.5471734+01:00;Thread#14;Info;test results published
+2019-10-21T10:57:04.5471734+01:00;Thread#14;Info;generating reports
+2019-10-21T10:57:05.0641677+01:00;Thread#14;Info;Starting external report generation process
+2019-10-21T10:57:12.5821372+01:00;Thread#14;Info;Successfully generated reports.
+2019-10-21T10:57:12.5941000+01:00;Thread#14;Info;Successfully generated reports
+2019-10-21T10:57:12.6390982+01:00:Total: 1
+2019-10-21T10:57:12.6430985+01:00:Succeeded: 0
+2019-10-21T10:57:12.6440984+01:00:Ignored: 0
+2019-10-21T10:57:12.6450974+01:00:Pending: 1
+2019-10-21T10:57:12.6450974+01:00:Skipped: 0
+2019-10-21T10:57:12.6460981+01:00:Failed: 0
+2019-10-21T10:57:12.7031587+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T10:57:12.7041203+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Seng Fai Chan\Documents\SketchFabSeleniumSpecFlow\TestResults\Unnamed project__2019-10-21T105604.html'
+========== End of log file ==========
