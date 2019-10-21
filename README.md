@@ -13,12 +13,21 @@ This project was created to test the Sketch Fab website using Selenium SpecFlow 
 The aim is to test the response from website for error handling when user has input some invalid data during registration.
 
 ## Implementation
-
+- HomePage.cs - A page object that represent the home page
+- SketchFabSignUp.feature - Gherkin feature file, contains scenario to test in English
+- SketchFabSignUpSteps.cs - Contains the executable code for each statment in the scenario
 
 ## Testing
 ### Test for Sign Up
-- Start up Google Chrome
-- Go to the home page of Sketch Fab
+#### Testing for invalid input where user does not tick the privacy policy check box
+* Start up Google Chrome
+* Go to the home page of Sketch Fab
+* Click SIGN UP on the top right of the page
+* Fill in a valid Username
+* Fill in a valid E-Mail
+* Fill in a valid Password
+* Click CREATE ACCOUNT button
+* The error message Please `This field is required` should be showed under the check box
 
 ## NuGet Packages
  - [SpecFlow](https://specflow.org/) - SpecFlow is a framework that bring C#, Gherkin together for User Acceptence Testing.
